@@ -10,7 +10,7 @@
 
 ## 目录
 
-- 入门  [博客](https://mp.csdn.net/mdeditor/86583893#) [代码](https://github.com/heyuxian/spring-boot-getting-started/tree/master/demo01)
+- 入门  [博客](https://mp.csdn.net/mdeditor/86583893#) [代码](https://github.com/heyuxian/spring-boot-getting-started/tree/master/gradle/demo01)
   - `Spring Boot` 简介 
   - 开发第一个 `Spring Boot` 应用
 - 使用 `Spring Boot` 
