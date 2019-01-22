@@ -95,11 +95,3 @@ java -jar ./build/libs/demo01-0.0.1-SNAPSHOT.jar
 ## 相关文档
 
 [Docs4dev](https://www.docs4dev.com/)
-
-## 源码
-
-[GitHub](https://github.com/heyuxian/spring-boot-getting-started)
-
-## 相关文档
-
-[Docs4dev](https://www.docs4dev.com/)
