@@ -10,14 +10,13 @@
 
 ## 目录
 
-- 入门  [博客](https://blog.csdn.net/github_39939645/article/details/86583893) [代码](https://github.com/heyuxian/spring-boot-getting-started/tree/master/gradle/demo01)
+- [入门](https://blog.csdn.net/github_39939645/article/details/86583893) 
   - `Spring Boot` 简介 
   - 开发第一个 `Spring Boot` 应用
 - 使用 `Spring Boot` 
-  - 构建系统  [博客](https://blog.csdn.net/github_39939645/article/details/86602347)   [源码(maven)](https://github.com/heyuxian/spring-boot-getting-started/tree/master/maven/demo02)   [源码(gradle)](https://github.com/heyuxian/spring-boot-getting-started/tree/master/gradle/demo02)
-  - 配置
-  - `Spring Bean`
-  - 打包和运行 `Spring Boot` 程序
+  - [构建系统](https://blog.csdn.net/github_39939645/article/details/86602347)
+  - [项目结构及自动配置机制 ](https://blog.csdn.net/github_39939645/article/details/86617248)
+  - dev tools
 - `Spring Boot` 的功能
   - `SpringApplication`
   - `Spring Boot` 属性配置
